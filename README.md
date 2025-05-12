@@ -17,10 +17,10 @@ I can be reached at jocelyn.wang2@duke.edu.
 
 ## Projects
 Projects I've worked on:
-1. *** Machine Learning Model to Classify Bird Species: ***
-   
-
-
+**1. Automated Flag Raising Engineering Project:**
+   Used Kotlin in Android studio to create an app enabling automatic and efficient raising of flags around Duke campus. Incorporatd GET requests into app buttons and to send to webserver      on click to communicate with motor and move multiple flags. Working on adding AWS backend to support logins.
+   - **Tech stack:** Android Studio, Kotlin
+   * **Learnings:** Front-end development, UI/UX design, working on backend
 <!--
 **mdolphin123/mdolphin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
