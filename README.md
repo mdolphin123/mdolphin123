@@ -17,7 +17,8 @@ I can be reached at jocelyn.wang2@duke.edu.
 
 ## Projects
 Projects I've worked on:
-1. __## asdsa
+1. *** Machine Learning Model to Classify Bird Species: ***
+   
 
 
 <!--
