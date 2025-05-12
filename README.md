@@ -30,6 +30,7 @@ Projects I've worked on:
 **2. More Projects: Coming soon**
 
 ## Github Stats: Coming soon
+[![Jocelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdolphin123)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mdolphin123/mdolphin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
