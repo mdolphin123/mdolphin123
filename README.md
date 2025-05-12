@@ -24,7 +24,6 @@ Projects I've worked on:
    - **Tech stack:** Android Studio, Kotlin
    * **Learnings:** Front-end development, UI/UX design, working on backend
    * **Link:** https://github.com/mdolphin123/FlagApp
-**2. 
 <!--
 **mdolphin123/mdolphin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
