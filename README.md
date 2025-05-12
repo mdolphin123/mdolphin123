@@ -5,7 +5,10 @@ I'm a student at Duke studying Mathematics and Computer Science. I hope to apply
 I can be reached at jocelyn.wang2@duke.edu.
 
 ## Tech Stack
-!https://img.shields.io/badge/java-%230A2F5A.svg?style=for-the-badge&logo=openjdk&logoColor=white
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
 <!--
