@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Jocelyn
 
+I'm a student at Duke studying Mathematics and Computer Science.
 <!--
 **mdolphin123/mdolphin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
