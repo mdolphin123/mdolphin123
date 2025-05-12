@@ -16,7 +16,8 @@ I can be reached at jocelyn.wang2@duke.edu.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Projects
-
+Projects I've worked on:
+1. __## asdsa
 
 
 <!--
