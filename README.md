@@ -25,7 +25,7 @@ Projects I've worked on:
    * **Learnings:** Front-end development, UI/UX design, working on backend
    * **Link:** https://github.com/mdolphin123/FlagApp
 
-**2. More Projects Coming soon**
+**2. More Projects: Coming soon**
 
 ## Github Stats: Coming soon
 <!--
