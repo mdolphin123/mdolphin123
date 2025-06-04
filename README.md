@@ -17,14 +17,3 @@ Email: jocelyn.wang2@duke.edu
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## Projects
-Projects I've worked on:
-
-**1. Automated Flag Raising Engineering Project:**
-   Used Kotlin in Android studio to create an app enabling automatic and efficient raising of flags around Duke campus. Incorporatd GET requests into app buttons and to send to webserver      on click to communicate with motors and move multiple flags. Working on adding AWS backend to support logins.
-   - **Tech stack:** Android Studio, Kotlin
-   * **Learnings:** Front-end development, UI/UX design, working on backend
-   * **Link:** https://github.com/mdolphin123/FlagApp
-
-**2. More Projects: Coming soon**
