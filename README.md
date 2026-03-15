@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Jocelyn
 
-I'm a student at Duke studying Mathematics and Computer Science. I hope to apply what I learn to address real world problems through various creative projects. 
+I'm a student at Duke studying Mathematics and Computer Science. I hope to apply what I learn to address real world problems through various hands on projects. 
 
-I'm currently interested in learning more in various areas in technology, including AI and ML, full stack app development (with a focus on backend), and cloud technologies. 
+I'm currently interested in learning more in various areas in technology, including AI and ML, full stack development (with a focus on backend), cloud technologies, and financial technology. 
 
 ## How to reach me:
 Email: jocelyn.wang2@duke.edu
